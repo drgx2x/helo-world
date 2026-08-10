@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1,Contoh Channel
-http://example.com/stream.m3u8
 #EXTINF:-1,Kompas TV (1080p)
 https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1786388327/ei/B8t5aomcJ4PJ9fwPm-H76Ak/ip/45.198.32.237/id/DOOrIxw5xOw.248/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr9---sn-hq2gph5-jb3k.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/ss/1/ssa/1/bui/AZFlqhPHmKItNczzoxYd827VcnhI6UjESxY7g-8yuh1iKJELALj1g6NpcCzPZspVGdnNIKM7DddlN0qk/spc/KBGBcokIqOeIMsbHZrx66etolKrVohS4DQuLHsiyzPdNdhblC6LS8K9skpvZXg/vprv/1/reg/0/playlist_type/DVR/initcwndbps/500000/met/1786366728,/mh/nm/mm/44/mn/sn-hq2gph5-jb3k/ms/lva/mv/m/mvi/9/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565115/mt/1786366118/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,ss,ssa,bui,spc,vprv,reg,playlist_type/sig/AE0s2JYwRAIgHGEB-krHRKUYbrDTKtDMZlJZLUxs5__dcer4YGH735MCIAVrAPzQhpvf7V48oMbAyANBmaFjju9XdNEKFLugvXIc/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIhAMCKvilb2fCDnr_K18lZTT9n7b_91qbBftLUDxNQh9j_AiAHH6Xvq4Y94Br4nSYii4hegeMx-AxZMGfgzTp9bPJmrQ%3D%3D/playlist/index.m3u8
 #EXTINF:-1,Metro TV (1080p)
