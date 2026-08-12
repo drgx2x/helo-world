@@ -1,37 +1,361 @@
 #EXTM3U
-#EXTGRP:Lokal
-#EXTINF:-1,Kompas TV
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1786474917/ei/RR17arD2H-aRssUP5aOOgAM/ip/45.198.32.237/id/DOOrIxw5xOw.248/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr9---sn-hq2gph5-jb3k.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/bui/AZFlqhPIIFx7hlKkAIBk_u2W1fViKHqmbOWeVPxwitA1LpoIHxmqUp91hHNYhGbavVondMxXw6VQcV--/spc/KBGBcvF6WWCyDaj_QQQNwg8Hy02kgAM8JnT4FrT2pmdLr1I/vprv/1/reg/0/playlist_type/DVR/initcwndbps/582500/met/1786453317,/mh/nm/mm/44/mn/sn-hq2gph5-jb3k/ms/lva/mv/m/mvi/9/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,51946838,52089683/mt/1786452300/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,bui,spc,vprv,reg,playlist_type/sig/AE0s2JYwRAIgU8hmoE6oIF3AHDouRz4zO2_PMMXcIDIjweWcdgpA3MwCIAOFv2dzgGU7EtKYyn0tgq-VXciTznBLdyD409qBrNph/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRgIhALf_ib0E2CR3STWPYcrbrOypWNu5ripPYbx7frb6bvuuAiEAjhIVlKn6H8k-xSbfhexd1LTKOT_G-QzTozFaVOxdZD4%3D/playlist/index.m3u8
-#EXTINF:-1,Metro TV
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1786474928/ei/UB17auOWMNTKssUP7efqwQ8/ip/45.198.32.237/id/hjNOqYN6UJo.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr8---sn-hq2gph5-jb3d.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AZFlqhMiJHtvIs2X7y5z_VS3pxTq5h1VQROpWS23AsgLq_2-8pAh8kVLSFUgnr5t09mgB4xMmU9cppY8/spc/KBGBcv71eIl9klsCskjE7K-xZLF5dyWDnaTveWxCmc4nBXRZXA/vprv/1/reg/0/playlist_type/DVR/initcwndbps/561250/met/1786453329,/mh/eH/mm/44/mn/sn-hq2gph5-jb3d/ms/lva/mv/m/mvi/8/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565115,52089683/mt/1786453020/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,reg,playlist_type/sig/AE0s2JYwRQIgEtfW_MT2ryuZHBh0YUSJre8L3_hs8-tOzf1wK2rQqqUCIQCampvKn_ZKQNs6GMJInQkzmc2m0n3JqzYK04bBv4DW0w%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRAIgI2NnOJtXh_24z1BoFv8bE0VbGJjZxPy7K8kD-qlDxVMCIBJtRPzYPYsedoFUSJYGumzsePGx-Yyg5BL54pXrg8ST/playlist/index.m3u8
-#EXTINF:-1,TVOne
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1786474939/ei/Wx17at6YCrDessUPhZ7P4QE/ip/45.198.32.237/id/rQJoEpzKkNk.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr3---sn-hq2gph5-jb3k.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AZFlqhMCRdoandU2pEaanMGrum3qeN8GSUeFpt6MqRvHxg1Zc_swI8Us-mczBkLuPKH1E15TrzPEyg24/spc/KBGBcvgCG_gNivTE9A_Gray4LsX6fHhyr0I_VyfoSOLhkyBRBA/vprv/1/reg/0/playlist_type/DVR/hcs/sd/initcwndbps/576250/met/1786453339,/mh/DS/mm/44/mn/sn-hq2gph5-jb3k/ms/lva/mv/m/mvi/3/pl/24/rmhost/rr4---sn-hq2gph5-jb3k.googlevideo.com/rms/lva,lva/smhost/rr3---sn-hq2gph5-jb3l.googlevideo.com/dover/11/pacing/0/keepalive/yes/fexp/51565116,52089683/mt/1786453020/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,reg,playlist_type/sig/AE0s2JYwRAIgJ1lyCHQJzbbKCflR2YWx8YbQqvjxiiIR3x1ZuUUHokMCIFvtF6USRCRmhdcIyf9uQTaB6l7Y7KrqPTtiCnDNT8u1/lsparams/hls_chunk_host,hcs,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rmhost,rms,smhost/lsig/APaTxxMwRQIgKYfUgFFizAd4k5IAjuCJ4b6ZFh-qx_ZDJQdH4OllsuwCIQDGi-eEaru5GHhSwvGm0FPwmP_lmaOyu3q2GF2aftnJkA%3D%3D/playlist/index.m3u8
-#EXTINF:-1,CNN Indonesia
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1786474979/ei/gx17avBaz6X1_A-sm8ixBw/ip/45.198.32.237/id/PDDOkUq33Sw.6/itag/301/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D299/rqh/1/hls_chunk_host/rr12---sn-hq2gph5-jb3k.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/bui/AZFlqhOanGBLDMSTcFuiadIJ7_67hvvyQsBqyfcaNP827YSK_V6LqsTycsFfPHtx01CzWOuTWhrbbjow/spc/KBGBclRbXmdUMtUp2Kfo_1Vt3tvMAXSBOwXHLKTThu8jmqI_8A/vprv/1/reg/0/playlist_type/DVR/initcwndbps/576250/met/1786453379,/mh/vy/mm/44/mn/sn-hq2gph5-jb3k/ms/lva/mv/m/mvi/12/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,52089683/mt/1786453020/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,bui,spc,vprv,reg,playlist_type/sig/AE0s2JYwRQIhANimLcwnWdGbXeK5f_nib4J8ae_Xk3pbj37_6wskzjD7AiA6c4GmiOeKTj7Whd0Ao4htiApYedT-6VY183YE24236Q%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRgIhAKLC7vbE6AFCVOGoL5kdAa-mEeLpkab_Bf_X7hmLvaNGAiEA-69UUFv-pYdN_RlQc_dyc-GirbFe1FLBk6is4ah6tF4%3D/playlist/index.m3u8
-#EXTINF:-1,Official iNews
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1786474966/ei/dh17aq31A-mK3LUPqpSbuQc/ip/45.198.32.237/id/WHTPYAvakTg.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr1---sn-hq2gph5-jb3d.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AZFlqhNUvh4J4-TMuUMpC-lUKzV8j9YA0ZmLvCbnpN3b02myIcHDUwxuxva22QzF820KcMuFAHS54cLI/spc/KBGBcjfG_vSLzEDmPaDYxhypdNFTTuQgTA96ZOzVibtwkztyvg/vprv/1/reg/0/playlist_type/DVR/initcwndbps/561250/met/1786453366,/mh/2i/mm/44/mn/sn-hq2gph5-jb3d/ms/lva/mv/m/mvi/1/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,52089683/mt/1786453020/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,reg,playlist_type/sig/AE0s2JYwRQIgYOdSspgQPgcIjfZp97jZnZniBYq7vSWdgmolsf-gzMECIQC6a4J-86hVVQ3lQgcsogZUbR_63Cpkj1bO0OrMTbadog%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIhAPhCjlmNTOlytss0RyszTzElHkrXI-XreXTmB2VcQnqnAiBtZcpczsAaE6810JIyzQdcU3DCc9b05ZAtl35zPR6vTQ%3D%3D/playlist/index.m3u8
-#EXTINF:-1,IDX Channel
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1786474989/ei/jR17aoSdMrvC4t4Px4HFsA0/ip/45.198.32.237/id/IPdDMDTE83Y.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr1---sn-hq2gph5-jb3l.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/bui/AZFlqhNb44j5zwLymHZgFNUZBNuGohe2psNwId4iDVzcT-_B-L222_354mbiAhXC8j5cUoizHprl3nEX/spc/KBGBchKaVvTtnBPXXbr9c33QD0A9HkYcTchsjo4SlyLGFSE3uQ/vprv/1/reg/0/playlist_type/DVR/initcwndbps/593750/met/1786453390,/mh/Od/mm/44/mn/sn-hq2gph5-jb3l/ms/lva/mv/m/mvi/1/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565115,52089682/mt/1786453020/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,bui,spc,vprv,reg,playlist_type/sig/AE0s2JYwRAIgAJUk9HHNukkrHSNMmhIN1H99YsC0J0bjhdslLO47I2QCIDtZu_XI4OkE1CfAn3B0YCd1-fcldRoulIPmsiIDS3h7/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRgIhAI83XzrWO9hubTuNIeaaqf2dleY2OUNk2lJuO4ZgculiAiEA_4847BIntCNjnM_rXqWDYvR9a7fh94cajk2hYzBj-wQ%3D/playlist/index.m3u8
-#EXTGRP:Luar
-#EXTINF:-1,France24
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1786475000/ei/mB17auiUH_2R9fwP4L6HoQc/ip/45.198.32.237/id/HvZt-nh9sGg.2/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr7---sn-hq2gph5-jb3d.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/bui/AZFlqhN54H4aAFfUt_y-8G0XHmZ1-VYVtA3azuWrJEFn4Do_UnVSaSsPYIcJWI2YJ_BJ5TbQfOss0r60/spc/KBGBcuW5lmzEbFfEVIsIWb054k4fWaPHTzEzRK5S9wVWqak83Q/vprv/1/reg/0/playlist_type/DVR/initcwndbps/561250/met/1786453400,/mh/Gh/mm/44/mn/sn-hq2gph5-jb3d/ms/lva/mv/m/mvi/7/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565115,52089682/mt/1786453020/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,bui,spc,vprv,reg,playlist_type/sig/AE0s2JYwRQIhAIy1A4tqf7dYEZqNxj6iwOwLMtqvlFnLAWcze_joyXzhAiAOCpVaiil1wp7NSCLnUCcys7Vf5B836I_XmZm4VNoQFQ%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRgIhAPZheDrhxfRcKQHuKBU_wVs2-pFL7hapkNsDRK7kCB4CAiEAsx4HT8Y2tBlMYOgbR_ohs0VkAx024_U4ckdZAVX4I0k%3D/playlist/index.m3u8
-#EXTINF:-1,Sky News
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1786475010/ei/oh17ar__OPfd3LUP--DWsAI/ip/45.198.32.237/id/YDvsBbKfLPA.2/itag/301/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D299/rqh/1/hls_chunk_host/rr8---sn-hq2gph5-jb3k.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/gcr/id/bui/AZFlqhMvrTDrQGKGWht_VOp0zsPWh8Y2w2pnnlxdYIN6IyjHOoG92b15bUFsqNutV0xs28aEqfWWk34_/spc/KBGBcgeTOEPBDBRpwN_BMZ1vNz9vC-8DeJs3Xbg5QIte4bMHQA/vprv/1/reg/0/playlist_type/DVR/initcwndbps/576250/met/1786453411,/mh/pH/mm/44/mn/sn-hq2gph5-jb3k/ms/lva/mv/m/mvi/8/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565115,52089682/mt/1786453020/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,gcr,bui,spc,vprv,reg,playlist_type/sig/AE0s2JYwRgIhAPRM5OrmmygyLib8qxJzhwwXknQocOV1Y1M88Ixc2FP_AiEArbKCA_Py27pxKP-9G0_PEiPkUbCUmswr4dsBpIQxxNk%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIgI3Nu7rIXBjFjoJxRMPiGBVD6zawvRh9yRgsHK3po1xICIQDiR11V6idibnwsdcwe-mU9yavTjyPwmoK9YNbAB1WKEA%3D%3D/playlist/index.m3u8
-#EXTINF:-1,CNN
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1786475021/ei/rR17apz8J4-HssUPoKvAqQM/ip/45.198.32.237/id/GotlA1KKWoo.2/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr3---sn-hq2gph5-jb3l.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/gcr/id/ss/1/bui/AZFlqhO8h5DxYdFaEPA_knrQ_Z08j0v3uCZXqdie6iED1nyEES7K2vWvInBlRSFXLIVbCSG42xeS8oc-/spc/KBGBcm6NcIsvlayxi0MtFChlgkrrVnAg0dE-OXxOaYnkG5A/vprv/1/reg/0/playlist_type/DVR/initcwndbps/593750/met/1786453421,/mh/nJ/mm/44/mn/sn-hq2gph5-jb3l/ms/lva/mv/m/mvi/3/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,51946838,52089683/mt/1786453020/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,gcr,ss,bui,spc,vprv,reg,playlist_type/sig/AE0s2JYwRQIge52F_WOoph6RD_ctHXn3UPODWGfV0gtS_DHEsMXT0_0CIQCqjK6T-a0r8DGpFdhkqCIMOicDmKKYmV-D4psoG0OHIg%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIgGz1W-tNqIJSgHC2GcRkdc_Xd8ZyzKjbIKifeyo53DGcCIQDPuqvkwTbPc8Bb79qZtBOWM4tvkO0xMn4XOdn-1IANqA%3D%3D/playlist/index.m3u8
-#EXTINF:-1,TalkTV
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1786475047/ei/xx17apLyHOOp9fwPwM_2qAU/ip/45.198.32.237/id/DFYaNjzI1aI.7/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr15---sn-hq2gph5-jb3k.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/ss/1/bui/AZFlqhNh1TU5HC9ANcxb3DqsUwHvsPa-gS77cgdk03bS9K8dGEzjjsHKIwD6U0Ly1HLuIbriqy2vv8Hn/spc/KBGBcoQZjoLQqopq8Cw-z6wb3SAVwTWWEl1sg31soGZQl2Qs5g/vprv/1/reg/0/playlist_type/DVR/initcwndbps/576250/met/1786453447,/mh/Y8/mm/44/mn/sn-hq2gph5-jb3k/ms/lva/mv/m/mvi/15/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,52089683/mt/1786453020/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,ss,bui,spc,vprv,reg,playlist_type/sig/AE0s2JYwRQIhAPAaKK_5bYCUxJFn9EQG4Qvw-L29TMFV7c82fqVcgbp-AiA6PcKWaGpDmDpRlRHzziso_22_XG_gkppT6VajybyhPQ%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRgIhAM0S0QC8gJcLenwOz-oI57yJCEpj7QpiVCyNUBhk03p5AiEAivDlsyQRJV2ZJesO3Vcw6ZPbBJtcxpyzRCwBpaBE1Wg%3D/playlist/index.m3u8
-#EXTINF:-1,ABC News
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1786475711/ei/XyB7apboHOCVssUPqqyBkQQ/ip/45.198.32.237/id/iipR5yUp36o.6/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/rqh/1/hls_chunk_host/rr13---sn-hq2gph5-jb3k.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/ss/1/bui/AZFlqhNuesyX6jd22X9QkO_sIZSGCfaQ_S52lsXjBa2fdZaZ01hk8tS1tjHdfaJA-3t8otEM-P-Ou-kO/spc/KBGBcglfy01oBJt49AF4SXlSFEMmda2JeNZc2NGgmuju5uUBww/vprv/1/reg/0/playlist_type/DVR/initcwndbps/567500/met/1786454112,/mh/S5/mm/44/mn/sn-hq2gph5-jb3k/ms/lva/mv/m/mvi/13/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,52089683/mt/1786453743/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,ss,bui,spc,vprv,reg,playlist_type/sig/AE0s2JYwRQIhAKxz8mLD8S5GVbBE5LXVfomAi_J4jb7NZqDg5gjua9zCAiAu_rb4iReEn4GnmVBB0kiaXlmJ78s_KOxOc3a6g-A0ug%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIgNsup0w-4pyt-S_9ueDV38fflZIU4WpLzJ0o4YWOdhwkCIQC-qegdXoVGp7nicPAHQV-ymvn_Gg7rdnLtCadc0BjOQw%3D%3D/playlist/index.m3u8
-#EXTINF:-1,CNA
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1786475070/ei/3h17apHyHO_E4t4Ph9HZuQU/ip/45.198.32.237/id/XWq5kBlakcQ.9/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr1---sn-hq2gph5-jb3d.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/bui/AZFlqhNlUhMXyjKpoJdir7HQOoNglREu53OvmFEvwzbGTqEwxLlE3oXZqhm9Ai-oQVgm9sObBCQa7m3E/spc/KBGBciQLi6M5fRPsv1ELsMJNv8AMewzH-Aywm9SAGCK1jR4RLw/vprv/1/reg/0/playlist_type/DVR/initcwndbps/561250/met/1786453470,/mh/W6/mm/44/mn/sn-hq2gph5-jb3d/ms/lva/mv/m/mvi/1/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,52089682/mt/1786453020/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,bui,spc,vprv,reg,playlist_type/sig/AE0s2JYwRgIhAKyX4kNDDbtLlPBCY-JkiwdlyG64VZfUAkcL6nEdCiy3AiEA73SMdSKRyyeCRi0s6e1V-bQQAtE6bPY6Z-hiKcsuu-4%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRAIgXdiZDzDh26G4pYGencljRLnJKBBxgRmC-KgKqzhUiQ0CIBAPnV7DyWR-wMhZwmWONMS8I6ITTRyUBuUdKBmQ5bjv/playlist/index.m3u8
-#EXTINF:-1,Fox News
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1786475081/ei/6R17ap3KGuPB4t4PwfnlwQE/ip/45.198.32.237/id/C96oohpWBGw.5/itag/300/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D298/rqh/1/hls_chunk_host/rr1---sn-hq2gph5-jb36.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/ss/1/bui/AZFlqhM9Ymvlz2_OvsgqgdaJW5LgBvF6WeZsFPLNEXlPxvqp-eWKyrvxIboYLrMcZC5t5UpU7lBkBs9K/spc/KBGBclrLWGimGu1vZdf-bZW-nflpVCz3Mkx7alif7gTAmcfoxg/vprv/1/reg/0/playlist_type/DVR/initcwndbps/571250/met/1786453481,/mh/Un/mm/44/mn/sn-hq2gph5-jb36/ms/lva/mv/m/mvi/1/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,52089682/mt/1786453020/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,ss,bui,spc,vprv,reg,playlist_type/sig/AE0s2JYwRgIhAJjBLikzbtdU-rjRCUhX1W1rIbuvR08es-d_BOnLdCoyAiEApnF9KEjCZr_F5TbopAJTW1d8IbWRlgM070voR60rUDY%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRgIhALHSgwhtuXFjIcKBTpase6gSywtg0_nrQnhTrtVPPXw8AiEAgJwH91E4QpsxW_Ev7vJR-_DBE9K7sTl083rOJoom72M%3D/playlist/index.m3u8
-#EXTINF:-1,CGTN
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1786475092/ei/9B17aub1CrvG9fwPovq04QY/ip/45.198.32.237/id/LJgXwC-AKu8.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr4---sn-hq2gph5-jb3k.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/bui/AZFlqhP3pBWNBmu2OTFF4l6NF9Qy_T7jaWxAB6VKjfXHPm4SbxQ0jjIlpTA-5GLsyInhnIXAZW60R3Yx/spc/KBGBcqtDN8mXWE9WVUCrnSDYFie8RSM4tbFED2l5GIijFoHd4A/vprv/1/reg/0/playlist_type/DVR/initcwndbps/576250/met/1786453492,/mh/sy/mm/44/mn/sn-hq2gph5-jb3k/ms/lva/mv/m/mvi/4/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565115,52089683/mt/1786453020/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,bui,spc,vprv,reg,playlist_type/sig/AE0s2JYwRAIgOIqInjqzarobwzmdP3Zb4O4MrvAugP9MjZie0AbPeMoCIDfUiowZez-sysBlHii0SvXh3LKb6ujEsri3Qcr0E0Tq/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIgZs_etlu0Ubw7fWoOMTSqf7qtVtK4GrHFhYLZiXBsNcUCIQDIPWA6V4QPfchWvpBaTLxllBWqso3jngXlH3l1R91oHQ%3D%3D/playlist/index.m3u8
-#EXTINF:-1,ESTV Esports
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1786475102/ei/_h17ao3uMY-84-EP5saPuAc/ip/45.198.32.237/id/8wl29eeg5Ts.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr8---sn-hq2gph5-jb3d.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AZFlqhOYXj1H0ROTRxZUO37R-rd04a-df1plQsWiTtBkAISKU2CECcEA77GxBUCLY4H-XeRIaJsvdpbQ/spc/KBGBch7fHeiR9C54fs8zYHYi-VQLmd6YfieRaNpYEGdVvCa_iA/vprv/1/reg/0/playlist_type/DVR/initcwndbps/561250/met/1786453503,/mh/dj/mm/44/mn/sn-hq2gph5-jb3d/ms/lva/mv/m/mvi/8/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565115,52089683/mt/1786453020/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,reg,playlist_type/sig/AE0s2JYwRQIhANNqmkHvoZw1IDnmgeZDEPw4GOzfHrKcrfVeBhLzAUSpAiBnSWzf5WBB9Q3z3qF2hIA5b1oxzhJBElD9WjWik9A7oA%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRAIgANmcl0E2lArMcPEJx_wcP_zfVQY3_9xQCpu4BktYX54CIDT8loiIiYlEELan_ftFYAWs-_ZoiMjhUWLp9GELcrLc/playlist/index.m3u8
-#EXTINF:-1,Bring Me The Horizon
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1786475577/ei/2R97at_zMPSBjuMPw5uVmA0/ip/45.198.32.237/id/sL_fbNaq6VA.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr1---sn-hq2gph5-jb3d.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/gcr/id/bui/AZFlqhMv1SG40RfyQAsc9ozQ80FGsv1a8MRO5bU_9AZ_wSJ7JCJMWA68JYXj0LdZUJp_Kwhen7Yjxi7X/spc/KBGBcnmxcJXfRNCkEWpyNUAe9VzRDbHg8vUuRUP26eiPyWmQnQ/vprv/1/reg/0/playlist_type/DVR/initcwndbps/570000/met/1786453978,/mh/2g/mm/44/mn/sn-hq2gph5-jb3d/ms/lva/mv/m/mvi/1/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,51946837,52089682/mt/1786453505/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,gcr,bui,spc,vprv,reg,playlist_type/sig/AE0s2JYwRAIgJyu7DlUu66GczkHag_OvVn8zL7NbpEbE_egvP2FPEAQCIFNJysh_xXa979KhravgO0ZluyeU5XHrHcebiws54kk_/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRAIgZ6UO_VSYOGgnfdQ_-P5Sjkl6v4UbCTYVKEjO7mIS7YMCIHWbc-dSOnJyDKji8D0d7985YAfyxkrH1wzlD8FjH09X/playlist/index.m3u8
-#EXTINF:-1,Nuclear Blast
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1786475127/ei/Fx57aoPGLN-34t4PgOLroAE/ip/45.198.32.237/id/3LWMFjRZQ6k.4/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr3---sn-hq2gph5-jb3k.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AZFlqhOf-c2T-wAlogYW1PVnJc-blC2dO7MMKvHYliupVRzD3Cign62Adg7mLbJYkwxlQBjxnt8CEjL9/spc/KBGBcqvk8Hw43sluuT_x5wqy_Dnm-DKVZgn-XaaiGGKWnOKJ0Q/vprv/1/reg/0/playlist_type/DVR/initcwndbps/576250/met/1786453528,/mh/Dn/mm/44/mn/sn-hq2gph5-jb3k/ms/lva/mv/m/mvi/3/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,52089682/mt/1786453020/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,reg,playlist_type/sig/AE0s2JYwRQIgHnBd3Y78oEjqrM6qKvZ1Yh1s4xKQqtuoG3wHnhnW8DECIQDUPVarowkRnmZeuCnFTVRjxnB66N8bjYjIM23EeRp8gQ%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIgYjuD0Aoy9RFGUcdDGzgdcaSqG0W88wXBdVJTGzab-rECIQDsoredrIU0yyuRlr-lT0z7iK3SyxKKw6CK-NeN-ZH8Sw%3D%3D/playlist/index.m3u8
+#EXTINF:-1 tvg-id="AFBTVKupang.id@SD",AFBTV Kupang (1080p) [Not 24/7]
+#EXTVLCOPT:http-referrer=https://afbtvkupang.com/
+https://afbtv.siar.us/live/afbtv.m3u8
+#EXTINF:-1 tvg-id="AhsanTV.id@SD",Ahsan TV
+https://5bf7b725107e5.streamlock.net/ahsantv/ahsantv/playlist.m3u8
+#EXTINF:-1 tvg-id="AKTV.id@SD",AKTV (1080p) [Not 24/7]
+#EXTVLCOPT:http-referrer=https://aktvuhfdigital.tv/Livestream/aktv
+https://akativi.siar.us/live/akativi.m3u8
+#EXTINF:-1 tvg-id="AlBahjahTV.id@SD",Al-Bahjah TV (1080p)
+http://202.150.161.117:8000/play/AlBahjahTV
+#EXTINF:-1 tvg-id="AlImanTV.id@SD",Al-Iman TV (720p)
+https://tv.aliman.id/aliman/live.m3u8
+#EXTINF:-1 tvg-id="AlWafaTarim.id@SD",Alwafa Tarim TV (Am Media) (720p)
+https://ammedia.siar.us/ammedia/live/playlist.m3u8
+#EXTINF:-1 tvg-id="ANTV.id@SD",ANTV (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+http://103.58.160.157:8278/720-ANTV/playlist.m3u8
+#EXTINF:-1 tvg-id="AshiilTV.id@SD",Ashiil TV (480p) [Not 24/7]
+#EXTVLCOPT:http-referrer=https://ashiil.tv/
+https://5bf7b725107e5.streamlock.net/ashiiltv/ashiiltv/playlist.m3u8
+#EXTINF:-1 tvg-id="AshiilTV.id@SD",Ashiil TV (480p)
+https://wahyu1ptv.pages.dev/AshiilTV-HD.m3u8
+#EXTINF:-1 tvg-id="AsthaTV.id@HD",Astha TV (1080p) [Not 24/7]
+https://hgmtv.com:19360/asthatv/asthatv.m3u8
+#EXTINF:-1 tvg-id="AstroBlitarTV.id@SD",Astro Blitar TV (720p)
+#EXTVLCOPT:http-referrer=https://abtelevisi.com/
+https://5bf7b725107e5.streamlock.net/abtv/abtv/playlist.m3u8
+#EXTINF:-1 tvg-id="AtambuaTV.id@HD",Atambua TV (720p)
+http://122.248.43.242:1935/ATAMBUATV/_definst_/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="BalikpapanTV.id@SD",Balikpapan TV (720p)
+http://122.248.43.242:1935/BALIKPAPANTV/_definst_/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="BandungTV.id@SD",Bandung TV (360p)
+http://202.150.153.254:65500/bandungtvWEBSITE.m3u8
+#EXTINF:-1 tvg-id="BanjarTV.id@SD",Banjar TV (720p) [Not 24/7]
+https://banjartv.siar.us/banjartv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="BantenTV.id@SD",Banten TV (720p) [Not 24/7]
+https://5bf7b725107e5.streamlock.net/bantentv/bantentv/playlist.m3u8
+#EXTINF:-1 tvg-id="BMSTV.id@SD",Banyumas TV (720p) [Not 24/7]
+https://5bf7b725107e5.streamlock.net/bmstv/bmstv/playlist.m3u8
+#EXTINF:-1 tvg-id="BatamTV.id@SD",Batam TV (480p) [Not 24/7]
+http://122.248.43.242:1935/BATAMTV/_definst_/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="BeritaSatu.id@SD",BeritaSatu (1080p)
+#EXTVLCOPT:http-referrer=https://www.beritasatu.com/beritasatu-live-streaming
+https://xtdslboppkkv-pull.bpmedialive.com/live/beritasatu/abr.m3u8
+#EXTINF:-1 tvg-id="BiznetAdventure.id@SD",Biznet Adventure (1080p)
+http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="BiznetKids.id@SD",Biznet Kids (1080p)
+http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/index.m3u8
+#EXTINF:-1 tvg-id="BiznetLifestyle.id@SD",Biznet Lifestyle (1080p)
+http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/index.m3u8
+#EXTINF:-1 tvg-id="BNChannel.id@SD",BN Channel (720p)
+#EXTVLCOPT:http-referrer=https://youtv.live/
+https://flv.intechmedia.net/live/ch112.m3u8
+#EXTINF:-1 tvg-id="BNChannel.id@SD",BN Channel (576i)
+http://175.158.57.130:8888/stream/channelid/1402218159
+#EXTINF:-1 tvg-id="BRTV.id@SD",BRTV (720p)
+https://5bf7b725107e5.streamlock.net/brtv/brtv/playlist.m3u8
+#EXTINF:-1 tvg-id="BungoTV.id@SD",Bungo TV (480p) [Not 24/7]
+https://5bf7b725107e5.streamlock.net/bungotv/bungotv/playlist.m3u8
+#EXTINF:-1 tvg-id="CarubanTV.id@HD",Caruban TV (1080p)
+#EXTVLCOPT:http-referrer=https://stream.carubantv.id
+https://stream.carubantv.id/hls/0/stream.m3u8
+#EXTINF:-1 tvg-id="CelebesTV.id@SD",Celebes TV [Not 24/7]
+https://ams.juraganstreaming.com:5443/LiveApp/streams/celebesmedia.m3u8
+#EXTINF:-1 tvg-id="DAAITV.id@SD",DAAI TV
+https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8
+#EXTINF:-1 tvg-id="DavikaTV.id@SD",Davika TV (480p)
+#EXTVLCOPT:http-referrer=https://davikatv.co/livestreaming/
+https://5bf7b725107e5.streamlock.net/davika/davika/playlist.m3u8
+#EXTINF:-1 tvg-id="DhammaTV.id@SD",Dhamma TV (720p) [Not 24/7]
+https://b.webcache.maxindo.net.id/dhamma/dhamma.m3u8
+#EXTINF:-1 tvg-id="DhohoTV.id@SD",Dhoho TV (720p)
+https://dhohotv.siar.us/dhohotv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="DMITV.id@SD",DMI TV (576i)
+https://tvstreamcast.com/tawaftv.m3u8
+#EXTINF:-1 tvg-id="dTVi.id@SD",dTVi
+https://e.siar.us/live/dtvi.m3u8
+#EXTINF:-1 tvg-id="DutaTV.id@SD",Duta TV (360p) [Not 24/7]
+https://dutatv.siar.us/dutatv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="EInternational.id@Asia",E International Asia (576p)
+https://gist.githubusercontent.com/iptvonlinetv/cf56ccf36d1c0827e4dc470db7b7912d/raw/066b1c9755b2496805575f16d413bd1207ca8117/udp315.520.789:8060.m3u8
+#EXTINF:-1 tvg-id="EInternational.id@Asia",E International Asia (480p)
+https://vodcdn.bamboo-cloud.com/livehls/69a123b780c99d28cc0f0016/master.m3u8
+#EXTINF:-1 tvg-id="EInternational.id@Europe",E International Europe (576p)
+https://gist.githubusercontent.com/iptvonlinetv/cf56ccf36d1c0827e4dc470db7b7912d/raw/066b1c9755b2496805575f16d413bd1207ca8117/udp120.510.450:6060.m3u8
+#EXTINF:-1 tvg-id="EInternational.id@Europe",E International Europe (576p)
+https://gist.githubusercontent.com/iptvonlinetv/cf56ccf36d1c0827e4dc470db7b7912d/raw/066b1c9755b2496805575f16d413bd1207ca8117/udp410.310.578:2020.m3u8
+#EXTINF:-1 tvg-id="EfarinaTV.id@SD",Efarina TV (720p)
+#EXTVLCOPT:http-referrer=https://live.efarinatv.net/
+https://live.efarinatv.com/hls/bgtaufikganteng.m3u8
+#EXTINF:-1 tvg-id="FajarTV.id@SD",Fajar TV (720p) [Not 24/7]
+http://122.248.43.242:1935/FAJARTV/_definst_/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="FicomChannel.id@SD",Ficom Channel (720p)
+https://v3.siar.us/ficomchannel/live/playlist.m3u8
+#EXTINF:-1 tvg-id="GarudaTV.id@SD",Garuda TV (1080p)
+https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8
+#EXTINF:-1 tvg-id="GrooviaKanal.id@HD",Groovia Kanal (576p)
+https://gist.githubusercontent.com/iptvonlinetv/02d209207082846012c15305f7471c55/raw/4439b54b986e696e6fcfba7a53380d85b27bbbc1/udp450.500.723:6050.m3u8
+#EXTINF:-1 tvg-id="GrooviaKids.id@HD",Groovia Kids (576p)
+https://gist.githubusercontent.com/iptvonlinetv/244b66c61f162a7c0c2b4fa59b528139/raw/2376b7ba1989ebbd383301ec7d645e222a6c9338/udp780.510.345:4545.m3u8
+#EXTINF:-1 tvg-id="HumaBetangTV.id@SD",Huma Betang TV (720p) [Not 24/7]
+https://v3.siar.us/humabetangtv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="IAmChannel.id@SD",I Am Channel (576p)
+#EXTVLCOPT:http-referrer=https://iamchannel.org/
+https://61146e7ab7a66.streamlock.net:8089/tes/1/chunklist.m3u8
+#EXTINF:-1 tvg-id="",IDTV (720p) [Not 24/7]
+https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
+#EXTINF:-1 tvg-id="IndonesianaTV.id@SD",Indonesiana.TV (720p)
+#EXTVLCOPT:http-referrer=https://indonesiana.tv/
+https://tvstreamcast.com/indonesiana.m3u8
+#EXTINF:-1 tvg-id="IzzahTV.id@SD",Izzah TV (480p)
+https://streaming.radiosalamjambi.com/izzahtv.m3u8
+#EXTINF:-1 tvg-id="JambiTV.id@SD",Jambi TV
+https://jambitv.globaldigitalcore.com/hls/sah5tu7Eiveepohyieyie3OoteL2anga.m3u8
+#EXTINF:-1 tvg-id="JawaPosTV.id@Jakarta",Jawa Pos TV Jakarta (720p)
+http://122.248.43.242:1935/JAWAPOSTVJKT/_definst_/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="JekTV.id@SD",Jek TV (720p) [Not 24/7]
+#EXTVLCOPT:http-referrer=http://jektv.co.id/livestreaming/
+http://27.124.81.245:1935/jektv/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="JogjaIstimewaTV.id@SD",Jogja Istimewa TV (720p)
+http://103.255.15.222:1935/tv/jitv_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="JogjaTV.id@SD",Jogja TV (720p) [Not 24/7]
+https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
+#EXTINF:-1 tvg-id="JTV.id@SD",JTV (720p)
+http://122.248.43.242:1935/JTVSURABAYA/_definst_/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="JTV.id@Madiun",JTV Madiun
+http://122.248.43.242:1935/JTVMADIUN/_definst_/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="JTV.id@Madura",JTV Madura (480p) [Not 24/7]
+http://122.248.43.242:1935/JTVMADURA/_definst_/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="JTV.id@Malang",JTV Malang
+http://122.248.43.242:1935/JTVMALANG/_definst_/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="KawanuaTV.id@SD",Kawanua TV (720p)
+http://122.248.43.242:1935/KAWANUATV/_definst_/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="KidsTV.id@SD",Kids TV
+http://origin5.mediacdn.ru/live/kidstv/index.m3u8
+#EXTINF:-1 tvg-id="KilisuciTV.id@SD",Kilisuci TV
+https://5bf7b725107e5.streamlock.net/kstv/kstv/playlist.m3u8
+#EXTINF:-1 tvg-id="KTV.id@SD",KTV (720p)
+#EXTVLCOPT:http-referrer=https://youtv.live/
+https://flv.intechmedia.net/live/ch118.m3u8
+#EXTINF:-1 tvg-id="KTV.id@SD",KTV (576p)
+http://103.66.62.83:8000/play/a04s/index.m3u8
+#EXTINF:-1 tvg-id="LingkarTV.id@SD",Lingkar TV
+https://lingkartv.my.id/hls/lingkartv.m3u8
+#EXTINF:-1 tvg-id="MadaniTV.id@SD",Madani TV (720p)
+https://stream.asianastream.com/madani/madanitv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="MaduTV.id@SD",Madu TV (1080p) [Not 24/7]
+#EXTVLCOPT:http-referrer=https://madu.tv/live-streaming/
+https://re1.siar.us/madutv/hd720/playlist.m3u8
+#EXTINF:-1 tvg-id="MagnaChannel.id@SD",Magna Channel (1080p) [Not 24/7]
+https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="MatrixTVYogyakarta.id@HD",Matrix TV Yogyakarta (720p)
+#EXTVLCOPT:http-referrer=https://stream.matrixtv.id/
+https://stream.matrixtv.id/hls/0/stream.m3u8
+#EXTINF:-1 tvg-id="MBGTV.id@FHD",MBG TV (1080p)
+https://stream.convergen.co/mbg_stream/smil:mbStream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="MDTV.id@HD",MDTV (1080p)
+https://wahyu1ptv.pages.dev/MDTV-HD.m3u8
+#EXTINF:-1 tvg-id="MetroTV.id@SD",Metro TV
+https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="MGITV.id@SD",MGI TV (720p) [Geo-blocked]
+https://tv.rodja.live/tasik/ngrp:mgitv_all/playlist.m3u8
+#EXTINF:-1 tvg-id="MGSTV.id@SD",MGSTV (360p) [Not 24/7]
+#EXTVLCOPT:http-referrer=https://mgstv.co.id/live-streaming/
+https://mgstv.siar.us/live/mgstv.m3u8
+#EXTINF:-1 tvg-id="MQTV.id@SD",MQTV (720p) [Not 24/7]
+https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
+#EXTINF:-1 tvg-id="MusicInformationChannel.id@SD",Music Information Channel (720p)
+#EXTVLCOPT:http-referrer=https://mic-indo.com/live
+https://mic.siar.us/mic/live/mic.m3u8
+#EXTINF:-1 tvg-id="MyKidz.id@SD",My Kidz (720p)
+https://cdn10jtedge.indihometv.com/atm/DASH/mykids/manifest.mpd
+#EXTINF:-1 tvg-id="NaajiyaTV.id@SD",Naajiya TV (720p)
+#EXTVLCOPT:http-referrer=https://www.naajiyatv.com/tonton
+https://www.naajiyatv.com/live/livestream.m3u8
+#EXTINF:-1 tvg-id="NabawiTV.id@SD",Nabawi TV (720p)
+http://202.150.161.117:8000/play/NabawiTV
+#EXTINF:-1 tvg-id="NusantaraTV.id@SD",Nusantara TV (1080p)
+https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="OnlineTVNusantara.id@SD",Online TV Nusantara (720p) [Not 24/7]
+https://5bf7b725107e5.streamlock.net/onlinetvnusantara/onlinetvnusantara/playlist.m3u8
+#EXTINF:-1 tvg-id="PadangTV.id@SD",Padang TV (720p) [Not 24/7]
+http://122.248.43.242:1935/PADANGTV/_definst_/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="PKTV.id@SD",PKTV (480p)
+#EXTVLCOPT:http-referrer=https://pktvkaltim.com/acara/live-content/?noamp=mobile
+https://streaming.id18.tunnel.my.id/hls/stream.m3u8
+#EXTINF:-1 tvg-id="PONTV.id@SD",PONTV (720p)
+http://122.248.43.242:1935/PONTV/_definst_/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="PujaTVAceh.id@SD",Puja TV Aceh (1080p) [Not 24/7]
+#EXTVLCOPT:http-referrer=https://www.pujatvaceh.com/
+https://pujatv.siar.us/live/pujatv.m3u8
+#EXTINF:-1 tvg-id="RadarLampungTV.id@SD",Radar Lampung TV (480p)
+#EXTVLCOPT:http-referrer=https://radartvnews.com/live-streaming/
+https://www.streaming.radartv.co.id/hls/test.m3u8
+#EXTINF:-1 tvg-id="RadarTasikmalayaTV.id@SD",Radar Tasikmalaya TV (720p) [Not 24/7]
+https://v2.siar.us/radartasikmalaya/live/playlist.m3u8
+#EXTINF:-1 tvg-id="RajawaliTV.id@SD",Rajawali TV (576i)
+#EXTVLCOPT:http-referrer=http://175.158.57.130:8888/
+http://175.158.57.130:8888/stream/channelid/412436804
+#EXTINF:-1 tvg-id="RajawaliTV.id@SD",Rajawali TV
+https://rtvstream.rtv.co.id:4555/hls/rtv.m3u8
+#EXTINF:-1 tvg-id="RCTV.id@SD",RCTV (720p) [Not 24/7]
+#EXTVLCOPT:http-referrer=https://www.radarcirebon.tv/livestreaming/
+https://v10.siar.us/rctv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="RiauTV.id@SD",Riau TV (1080p) [Not 24/7]
+http://122.248.43.242:1935/RIAUTV/_definst_/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="RinjaniTV.id@SD",Rinjani TV
+https://rinjanitv.cloud/hls/tvkabel.m3u8
+#EXTINF:-1 tvg-id="RodjaTV.id@SD",Rodja TV (720p)
+https://rodjatv.com/rodjatv/live.m3u8
+#EXTINF:-1 tvg-id="RRINet.id@SD",RRI Net (1080p)
+https://private-streaming.rri.go.id/memfs/6f77c7b5-feb2-4935-9f89-e7e9fca0a54a_output_0.m3u8
+#EXTINF:-1 tvg-id="SalamTV.id@SD",Salam TV (1080p)
+https://salamtv.siar.us/live/salamtv.m3u8
+#EXTINF:-1 tvg-id="SaliraTV.id@SD",Salira TV (720p)
+https://live.salira.tv/p/3870/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="SaliraTV.id@SD",Salira TV (720p)
+https://live.salira.tv:3870/stream/play.m3u8
+#EXTINF:-1 tvg-id="SampitTV.id@SD",Sampit TV (720p) [Not 24/7]
+https://sampit-tv.siar.us/live/sampit-tv.m3u8
+#EXTINF:-1 tvg-id="SangajiTV.id@SD",Sangaji TV (720p)
+#EXTVLCOPT:http-referrer=https://sangajitv.co.id/
+https://cdn.adyadigitalteknologi.com:8090/vod/relay.m3u8
+#EXTINF:-1 tvg-id="SemarangTV.id@SD",Semarang TV (720p)
+http://116.254.112.74/hls/cakralive.m3u8
+#EXTINF:-1 tvg-id="Simpang5TV.id@SD",Simpang5 TV (360p) [Not 24/7]
+http://122.248.43.242:1935/SIMPANG5TV/_definst_/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="SMTV.id@SD",SMTV (720p) [Not 24/7]
+http://122.248.43.242:1935/SMTV/_definst_/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="SMTV.id@SD",SMTV (720p)
+#EXTVLCOPT:http-referrer=https://smtv.digital/
+https://e.siar.us/live/smtv.m3u8
+#EXTINF:-1 tvg-id="SriwijayaTV.id@SD",Sriwijaya TV (720p) [Not 24/7]
+#EXTVLCOPT:http-referrer=sriwijayatv.tv
+https://sriwijayatv.siar.us/live/sriwijayatv.m3u8
+#EXTINF:-1 tvg-id="StaraTV.id@SumedangMajalengka",Stara TV (720p)
+#EXTVLCOPT:http-referrer=https://stream.staratv.id/
+https://stream.staratv.id/hls/0/stream.m3u8
+#EXTINF:-1 tvg-id="StaraTV.id@Bandung",Stara TV Bandung (1080p)
+#EXTVLCOPT:http-referrer=https://bandung.staratv.id/
+https://bandung.staratv.id/hls/0/stream.m3u8
+#EXTINF:-1 tvg-id="StaraTV.id@Bojonegoro",Stara TV Bojonegoro (720p)
+#EXTVLCOPT:http-referrer=https://bojonegoro.staratv.id/
+https://bojonegoro.staratv.id/hls/stream.m3u8
+#EXTINF:-1 tvg-id="StaraTV.id@Cianjur",Stara TV Cianjur (720p)
+#EXTVLCOPT:http-referrer=https://cianjur.staratv.id/
+https://cianjur.staratv.id/hls/0/stream.m3u8
+#EXTINF:-1 tvg-id="StaraTV.id@Jakarta",Stara TV Jakarta (1080p)
+#EXTVLCOPT:http-referrer=https://jakarta.staratv.id/
+https://jakarta.staratv.id/hls/0/stream.m3u8
+#EXTINF:-1 tvg-id="StaraTV.id@Malang",Stara TV Malang (1080p)
+#EXTVLCOPT:http-referrer=https://malang.staratv.id/
+https://malang.staratv.id/hls/0/stream.m3u8
+#EXTINF:-1 tvg-id="StaraTV.id@Parahyangan",Stara TV Parahyangan (720p)
+#EXTVLCOPT:http-referrer=https://parahyangan.staratv.id/
+https://parahyangan.staratv.id/hls/0/stream.m3u8
+#EXTINF:-1 tvg-id="STV.id@SD",STV (720p) [Not 24/7]
+http://122.248.43.242:1935/SAMARINDATV/_definst_/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="SultraTV.id@SD",Sultra TV (720p) [Not 24/7]
+http://122.248.43.242:1935/SULTRATV/_definst_/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="SurauTV.id@SD",Surau TV
+https://wahyu1ptv.pages.dev/SurauTV-HD.m3u8
+#EXTINF:-1 tvg-id="TATV.id@SD",TATV (720p) [Not 24/7]
+https://v2.siar.us/tatv/live.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="TegarTVLampung.id@SD",Tegar TV Lampung (480p) [Not 24/7] [Geo-blocked]
+http://wms.klikhost.com:1935/tegartv/tegartv/playlist.m3u8
+#EXTINF:-1 tvg-id="TegarTVLampung.id@SD",Tegar TV Lampung (480p) [Not 24/7] [Geo-blocked]
+https://5bf7b725107e5.streamlock.net/tegartv/tegartv/playlist.m3u8
+#EXTINF:-1 tvg-id="TheIndonesiaChannel.id@SD",The Indonesia Channel (1080p)
+https://restreamer.indonusa.id:8443/d5f4ad43-1b5a-4b0f-8bef-5b37224ed221.m3u8
+#EXTINF:-1 tvg-id="TV9Nusantara.id@SD",TV9 Nusantara (720p)
+https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
+#EXTINF:-1 tvg-id="TVMu.id@SD",TV Mu (720p) [Not 24/7]
+https://e.siar.us/live/tvmu.m3u8
+#EXTINF:-1 tvg-id="TVTabalong.id@SD",TV Tabalong (720p) [Not 24/7]
+https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/playlist.m3u8
+#EXTINF:-1 tvg-id="TVKU.id@SD",TVKU (720p)
+https://tvku.tv/hlsstream/hls/live.m3u8
+#EXTINF:-1 tvg-id="TVRParlemen.id@SD",TVR Parlemen (720p) [Not 24/7]
+http://103.18.181.69:1935/golive/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="TVRParlemen.id@SD",TVR Parlemen (720p) [Not 24/7]
+https://ssv1.dpr.go.id/golive/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="TVRI.id@HD",TVRI (1080i)
+https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
+#EXTINF:-1 tvg-id="TVRI.id@Aceh",TVRI Aceh (720p)
+https://ott-balancer.tvri.go.id/live/eds/Aceh/hls/Aceh.m3u8
+#EXTINF:-1 tvg-id="TVRI.id@Bali",TVRI Bali (480p)
+https://ott-balancer.tvri.go.id/live/eds/Bali/hls/Bali.m3u8
+#EXTINF:-1 tvg-id="TVRI.id@BangkaBelitung",TVRI Bangka Belitung (480p)
+https://ott-balancer.tvri.go.id/live/eds/Babel/hls/Babel.m3u8
+#EXTINF:-1 tvg-id="TVRI.id@Bengkulu",TVRI Bengkulu (480p)
+https://ott-balancer.tvri.go.id/live/eds/Bengkulu/hls/Bengkulu.m3u8
+#EXTINF:-1 tvg-id="TVRI.id@Gorontalo",TVRI Gorontalo (480p)
+https://ott-balancer.tvri.go.id/live/eds/Gorontalo/hls/Gorontalo.m3u8
+#EXTINF:-1 tvg-id="TVRI.id@Jakarta",TVRI Jakarta (576i) [Not 24/7]
+https://ott-balancer.tvri.go.id/live/eds/DKI/hls/DKI.m3u8
+#EXTINF:-1 tvg-id="TVRI.id@Jambi",TVRI Jambi (720p) [Not 24/7]
+https://ott-balancer.tvri.go.id/live/eds/Jambi/hls/Jambi.m3u8
+#EXTINF:-1 tvg-id="TVRI.id@WestJava",TVRI Jawa Barat (480p)
+https://ott-balancer.tvri.go.id/live/eds/Jabar/hls/Jabar.m3u8
+#EXTINF:-1 tvg-id="TVRI.id@CentralJava",TVRI Jawa Tengah (720p)
+https://ott-balancer.tvri.go.id/live/eds/Jateng/hls/Jateng.m3u8
+#EXTINF:-1 tvg-id="TVRI.id@EastJava",TVRI Jawa Timur (720p)
+https://ott-balancer.tvri.go.id/live/eds/Jatim/hls/Jatim.m3u8
+#EXTINF:-1 tvg-id="TVRI.id@WestKalimantan",TVRI Kalimantan Barat (480p)
+https://ott-balancer.tvri.go.id/live/eds/Kalbar/hls/Kalbar.m3u8
+#EXTINF:-1 tvg-id="TVRI.id@SouthKalimantan",TVRI Kalimantan Selatan (720p)
+https://ott-balancer.tvri.go.id/live/eds/Kalsel/hls/Kalsel.m3u8
+#EXTINF:-1 tvg-id="TVRI.id@CentralKalimantan",TVRI Kalimantan Tengah (480p)
+https://ott-balancer.tvri.go.id/live/eds/Kalteng/hls/Kalteng.m3u8
+#EXTINF:-1 tvg-id="TVRI.id@EastKalimantan",TVRI Kalimantan Timur (720p)
+https://ott-balancer.tvri.go.id/live/eds/Kaltim/hls/Kaltim.m3u8
+#EXTINF:-1 tvg-id="TVRI.id@Lampung",TVRI Lampung (720p)
+https://ott-balancer.tvri.go.id/live/eds/Lampung/hls/Lampung.m3u8
+#EXTINF:-1 tvg-id="TVRI.id@Maluku",TVRI Maluku (480p)
+https://ott-balancer.tvri.go.id/live/eds/Ambon/hls/Ambon.m3u8
+#EXTINF:-1 tvg-id="TVRI.id@NorthSulawesi",TVRI North Sulawesi (1080p)
+https://ott-balancer.tvri.go.id/live/eds/Sulut/hls/Sulut.m3u8
+#EXTINF:-1 tvg-id="TVRI.id@NorthSumatra",TVRI North Sumatra (1080p)
+https://ott-balancer.tvri.go.id/live/eds/Sumut/hls/Sumut.m3u8
+#EXTINF:-1 tvg-id="TVRI.id@WestNusaTenggara",TVRI Nusa Tenggara Barat (720p)
+https://ott-balancer.tvri.go.id/live/eds/NTB/hls/NTB.m3u8
+#EXTINF:-1 tvg-id="TVRI.id@EastNusaTenggara",TVRI Nusa Tenggara Timur (480p)
+https://ott-balancer.tvri.go.id/live/eds/NTT/hls/NTT.m3u8
+#EXTINF:-1 tvg-id="TVRI.id@Papua",TVRI Papua (480p)
+https://ott-balancer.tvri.go.id/live/eds/Papua/hls/Papua.m3u8
+#EXTINF:-1 tvg-id="TVRI.id@Riau",TVRI Riau (720p) [Not 24/7]
+https://ott-balancer.tvri.go.id/live/eds/Riau/hls/Riau.m3u8
+#EXTINF:-1 tvg-id="TVRI.id@WestSulawesi",TVRI Sulawesi Barat (720p)
+https://ott-balancer.tvri.go.id/live/eds/Sulbar/hls/Sulbar.m3u8
+#EXTINF:-1 tvg-id="TVRI.id@SouthSulawesi",TVRI Sulawesi Selatan (480p)
+https://ott-balancer.tvri.go.id/live/eds/Sulsel/hls/Sulsel.m3u8
+#EXTINF:-1 tvg-id="TVRI.id@CentralSulawesi",TVRI Sulawesi Tengah (720p)
+https://ott-balancer.tvri.go.id/live/eds/Sulteng/hls/Sulteng.m3u8
+#EXTINF:-1 tvg-id="TVRI.id@SoutheastSulawesi",TVRI Sulawesi Tenggara (480p)
+https://ott-balancer.tvri.go.id/live/eds/Sultra/hls/Sultra.m3u8
+#EXTINF:-1 tvg-id="TVRI.id@WestSumatra",TVRI Sumatera Barat (720p)
+https://ott-balancer.tvri.go.id/live/eds/Sumbar/hls/Sumbar.m3u8
+#EXTINF:-1 tvg-id="TVRI.id@SouthSumatra",TVRI Sumatera Selatan (480p)
+https://ott-balancer.tvri.go.id/live/eds/Sumsel/hls/Sumsel.m3u8
+#EXTINF:-1 tvg-id="TVRI.id@WestPapua",TVRI West Papua (1080p)
+https://ott-balancer.tvri.go.id/live/eds/Pabar/hls/Pabar.m3u8
+#EXTINF:-1 tvg-id="TVRIWorld.id@SD",TVRI World (1080p)
+https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
+#EXTINF:-1 tvg-id="TVRI.id@Yogyakarta",TVRI Yogyakarta (720p)
+https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hls/Jogjakarta.m3u8
+#EXTINF:-1 tvg-id="UChannel.id@SD",U Channel
+#EXTVLCOPT:http-referrer=https://www.u-channel.tv
+https://srs.u-channel.tv/live/uchannel-tv.m3u8
+#EXTINF:-1 tvg-id="UGTV.id@SD",UGTV (720p)
+https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
+#EXTINF:-1 tvg-id="VTV.id@SD",VTV (1080p)
+http://103.66.62.83:8000/play/a00c/index.m3u8
+#EXTINF:-1 tvg-id="VTV.id@SD",VTV (720p)
+#EXTVLCOPT:http-referrer=https://youtv.live/
+https://flv.intechmedia.net/live/ch107.m3u8
+#EXTINF:-1 tvg-id="WesalTV.id@SD",Wesal TV (720p) [Not 24/7]
+https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8
+#EXTINF:-1 tvg-id="YOYInternational.id@HD",YOY International (576p)
+https://gist.githubusercontent.com/iptvonlinetv/8a6b2f12e5e968537378f1245cea02c9/raw/78bf84476f8e24cc8ea9d5ac24855078c61b18db/udp305.575.530:3030.m3u8
