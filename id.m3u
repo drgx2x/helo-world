@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1,Unknown
-#EXTGRP:Lokal
 #EXTINF:-1,Cnn Indonesia
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1786641897/ei/ial9asuyKu2B9fwPi-6G0Ak/ip/45.198.32.237/id/PDDOkUq33Sw.6/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AZFlqhPbx5raj0vENfjLpH44tTh3Eb4u-bwq3NrqjfSKeSbbpe_PLzymmCsOjUhYNHBnFT5OvFvMlmoP/spc/KBGBcrvVSyiQYO6gCTmhxU3pIb1jshoA6DSN4SIawdVgn6t0c2VZzyUIsAjxvA/vprv/1/go/1/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565116%2C51946837%2C52089683/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AE0s2JYwRgIhAPbcS82_66e9aG9UwuGX_mzpEPrUf20L4Trt1UtKsNckAiEAkAUmpChfXHTZZy_IKuFCsiGZpL2M8GJPTmtmDpHJf98%3D/file/index.m3u8
 #EXTINF:-1,Idx Channel
