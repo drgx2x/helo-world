@@ -15,6 +15,12 @@ https://www.youtube.com/watch?v=WHTPYAvakTg
 #EXTINF:-1,Tvone
 https://www.youtube.com/watch?v=rQJoEpzKkNk
 #EXTGRP:Luar
+#EXTINF:-1,Bloomberg Phoenix Us
+https://www.bloomberg.com/media-manifest/streams/phoenix-us.m3u8
+#EXTINF:-1,Dw Stream 102
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1,Tubi Video Stream
+https://aegis-cloudfront-1.tubi.video/a78ea283-8666-44a1-a0f6-fde5d229ac21/playlist.m3u8
 #EXTINF:-1,Abc 7 New York
 https://www.youtube.com/live/VrhYz4CL70I
 #EXTINF:-1,Abc News
