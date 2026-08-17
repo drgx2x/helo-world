@@ -1,1 +1,73 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="CNN Indonesia", CNN Indonesia
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1786973601/ei/QbmCas6hMYSk9fwPxvCwwQM/ip/45.198.32.237/id/PDDOkUq33Sw.6/itag/300/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D298/rqh/1/hls_chunk_host/rr12---sn-hq2gph5-jb3k.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/ss/1/ssa/1/bui/AR3QkAnNCAmA7zVrQlp8DWcnvZ7IY1c91-JzBBAVfgUT-O9fzo0Xj71_xdF7v1tNgfVY9GTsupbGEaQr/spc/KBGBcpsZdtiS4OwTjngQvIW4wS_mYLyvTCWQhxsJxssDLjuwAtKVVkG_2WUkG_qd/vprv/1/reg/0/playlist_type/DVR/initcwndbps/646250/met/1786952002,/mh/vy/mm/44/mn/sn-hq2gph5-jb3k/ms/lva/mv/m/mvi/12/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,51946838,52089683/mt/1786951699/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,ss,ssa,bui,spc,vprv,reg,playlist_type/sig/AE0s2JYwRgIhALiDeMiK3mYPCdg7g5HxPBMPxrEumH1nkcGqGOgjqSikAiEAyaFivQRvnreMnCqffr0f5AX-PAeoJL4MJV9eu0eyhfg%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIgYhCXUEDWP-7Bu9cbrrZK1CrRGHs8EPO9lnjkLMF3maICIQCRtlSXi2PJA3uwJcCn19pnXyd9dwcJkkV3Ec3XQZPHHA%3D%3D/playlist/index.m3u8
+#EXTINF:-1 tvg-name="IDX Channel", IDX Channel
+https://www.youtube.com/watch?v=IPdDMDTE83Y
+#EXTINF:-1 tvg-name="Kompas TV", Kompas TV
+https://www.youtube.com/watch?v=DOOrIxw5xOw
+#EXTINF:-1 tvg-name="Metro TV", Metro TV
+https://www.youtube.com/watch?v=hjNOqYN6UJo
+#EXTINF:-1 tvg-name="Official iNews", Official iNews
+https://www.youtube.com/watch?v=WHTPYAvakTg
+#EXTINF:-1 tvg-name="TVOne", TVOne
+https://www.youtube.com/watch?v=rQJoEpzKkNk
+#EXTINF:-1 tvg-name="abc 7 new york", abc 7 new york
+https://www.youtube.com/live/VrhYz4CL70I
+#EXTINF:-1 tvg-name="ABC News", ABC News
+https://www.youtube.com/watch?v=iipR5yUp36o
+#EXTINF:-1 tvg-name="Al Jazeera", Al Jazeera
+https://www.youtube.com/watch?v=gCNeDWCI0vo
+#EXTINF:-1 tvg-name="CGTN", CGTN
+https://www.youtube.com/watch?v=LJgXwC-AKu8
+#EXTINF:-1 tvg-name="CNA", CNA
+https://www.youtube.com/watch?v=XWq5kBlakcQ
+#EXTINF:-1 tvg-name="CNN", CNN
+https://www.youtube.com/watch?v=GotlA1KKWoo
+#EXTINF:-1 tvg-name="Fox News", Fox News
+https://www.youtube.com/watch?v=C96oohpWBGw
+#EXTINF:-1 tvg-name="France24", France24
+https://www.youtube.com/watch?v=HvZt-nh9sGg
+#EXTINF:-1 tvg-name="GB News", GB News
+https://www.youtube.com/watch?v=I8E6eDmhegY
+#EXTINF:-1 tvg-name="Sky News", Sky News
+https://www.youtube.com/watch?v=YDvsBbKfLPA
+#EXTINF:-1 tvg-name="TalkTV", TalkTV
+https://www.youtube.com/watch?v=DFYaNjzI1aI
+#EXTINF:-1 tvg-name="Bloomberg Business", Bloomberg Business
+https://www.youtube.com/watch?v=QB5BNdBFujE
+#EXTINF:-1 tvg-name="Yahoo Finance", Yahoo Finance
+https://www.youtube.com/watch?v=KQp-e_XQnDE
+#EXTINF:-1 tvg-name="Bring Me The Horizon", Bring Me The Horizon
+https://www.youtube.com/watch?v=sL_fbNaq6VA
+#EXTINF:-1 tvg-name="ESTV Esports", ESTV Esports
+https://www.youtube.com/watch?v=8wl29eeg5Ts
+#EXTINF:-1 tvg-name="Lofi Girl", Lofi Girl
+https://www.youtube.com/watch?v=X4VbdwhkE10
+#EXTINF:-1 tvg-name="Nuclear Blast", Nuclear Blast
+https://www.youtube.com/watch?v=3LWMFjRZQ6k
+#EXTINF:-1 tvg-name="Shaun The Sheep", Shaun The Sheep
+https://www.youtube.com/watch?v=vvrRqhZZsrU
+#EXTINF:-1 tvg-name="FailArmy", FailArmy
+https://m.twitch.tv/failarmy
+#EXTINF:-1 tvg-name="Tokyo Street View", Tokyo Street View
+https://m.twitch.tv/tokyostreetview
+#EXTINF:-1 tvg-name="LeekBeats", LeekBeats
+https://m.twitch.tv/leekbeats
+#EXTINF:-1 tvg-name="RiffTrax", RiffTrax
+https://m.twitch.tv/rifftrax
+#EXTINF:-1 tvg-name="The Asylum Movies", The Asylum Movies
+https://m.twitch.tv/theasylummovies
+#EXTINF:-1 tvg-name="LEC", LEC
+https://m.twitch.tv/lec
+#EXTINF:-1 tvg-name="Valorant EMEA", Valorant EMEA
+https://m.twitch.tv/valorant_emea
+#EXTINF:-1 tvg-name="ESL CS", ESL CS
+https://m.twitch.tv/eslcs
+#EXTINF:-1 tvg-name="LCK", LCK
+https://m.twitch.tv/lck
+#EXTINF:-1 tvg-name="BLAST Premier", BLAST Premier
+https://m.twitch.tv/blastpremier
+#EXTINF:-1 tvg-name="ESL Dota 2", ESL Dota 2
+https://m.twitch.tv/esl_dota2
+#EXTINF:-1 tvg-name="Valorant ID", Valorant ID
+https://m.twitch.tv/valorant_id
