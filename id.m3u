@@ -19,7 +19,7 @@ https://www.youtube.com/watch?v=rQJoEpzKkNk
 https://www.bloomberg.com/media-manifest/streams/phoenix-us.m3u8
 #EXTINF:-1,Dw Stream 102
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-#EXTINF:-1,Tubi Video Stream
+#EXTINF:-1,Ufc
 https://aegis-cloudfront-1.tubi.video/a78ea283-8666-44a1-a0f6-fde5d229ac21/playlist.m3u8
 #EXTINF:-1,Abc 7 New York
 https://www.youtube.com/live/VrhYz4CL70I
@@ -55,15 +55,5 @@ https://www.youtube.com/watch?v=8wl29eeg5Ts
 https://www.youtube.com/watch?v=X4VbdwhkE10
 #EXTINF:-1,Nuclear Blast
 https://www.youtube.com/watch?v=3LWMFjRZQ6k
-#EXTINF:-1,Failarmy
-https://m.twitch.tv/failarmy
-#EXTINF:-1,Tokyo Street View
-https://m.twitch.tv/tokyostreetview
-#EXTINF:-1,Leekbeats
-https://m.twitch.tv/leekbeats
 #EXTINF:-1,Rifftrax
 https://m.twitch.tv/rifftrax
-#EXTINF:-1,The Asylum Movies
-https://m.twitch.tv/theasylummovies
-#EXTINF:-1,Esl Dota 2
-https://m.twitch.tv/esl_dota2
